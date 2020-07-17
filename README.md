@@ -23,6 +23,7 @@ cd Election-Mini-Projet
 
 #### apt
 `$ sudo apt-get install python3-tk`
+
 `$ sudo apt-get install python3-pil.imagetk`
 
 or check [Tkinter Forum](https://tkdocs.com/tutorial/install.html) for other distribution or Windows or MAC
