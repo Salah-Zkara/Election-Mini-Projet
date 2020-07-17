@@ -1,15 +1,23 @@
 # Election2020
 **GUI/Commands versions**
 - [Election2020](#election2020)
-  * [Installation](#installation)
+  * [Download](#download)
+  * [Requirements](#requirements)
     + [Install Tkinter](#install-tkinter)
       - [apt](#apt)
-    + [Install Requirements](#install-requirements)
+    + [Install other modules](#install-other-modules)
   * [Execution](#execution)
     + [Commands](#commands)
     + [GUI](#gui)
   * [Links](#links)
-## Installation
+## Download
+To Download this software clone this repositorie or Download it as zip.
+```bash
+git clone https://github.com/Salah-Zkara/Election-Mini-Projet.git
+cd Election-Mini-Projet
+```
+
+## Requirements
 ### Install Tkinter
 
 
@@ -17,7 +25,7 @@
 `$ sudo apt-get install python3-tk`
 
 or check [Tkinter Forum](https://tkdocs.com/tutorial/install.html) for other distribution or Windows or MAC
-### Install Requirements
+### Install other modules
 to run the program you have to install the required modules so open the terminal in the root folder of the program and run this command
 
 `$ pip install -r requirements.txt`
