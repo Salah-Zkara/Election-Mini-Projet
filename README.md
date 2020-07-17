@@ -7,9 +7,21 @@
     + [GUI](#gui)
   * [Links](#links)
 ## Installation
+### Install Tkinter
+
+
+#### apt
+`$ sudo apt-get install python3-tk`
+
+or check [Tkinter Forum](https://tkdocs.com/tutorial/install.html) for other distribution or Windows or MAC
+
 to run the program you have to install the required modules so open the terminal in the root folder of the program and run this command
 
 `$ pip install -r requirements.txt`
+
+**or**
+
+`$ pip3 install -r requirements.txt`
 ## Execution
 you can modify the elected persons in the file "candidats.txt" in the root folder for the command version, and in ".resources->candidats.txt" for GUI version.
 ### Commands
