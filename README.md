@@ -8,9 +8,10 @@
   * [Links](#links)
 ## Installation
 to run the program you have to install the required modules so open the terminal in the root folder of the program and run this command
+
 `$ pip install -r requirements.txt`
 ## Execution
-you can modify the elected persons in the file "candidats.txt"in the root folder for the command version, and in ".resources->candidats.txt"for GUI version.
+you can modify the elected persons in the file "candidats.txt" in the root folder for the command version, and in ".resources->candidats.txt" for GUI version.
 ### Commands
 `$ python mini_projet.py`
 
