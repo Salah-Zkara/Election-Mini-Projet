@@ -240,7 +240,7 @@ def load():
 
 def prcp_gui(background_color):
 	load()
-	#window.resizable(0, 0)
+	window.resizable(0, 0)
 	Button(window,font=button_font,fg="white",bg=button_color,width=20,text="Inscription",command=Inscription).place(x=20,y=170)
 	Button(window,font=button_font,fg="white",bg=button_color,width=20,text="Liste codes --> candidat",command=Liste_Candidat).place(x=420,y=170)
 	Button(window,font=button_font,fg="white",bg=button_color,width=20,text="Voter",command=Vote).place(x=20,y=220)
