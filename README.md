@@ -2,6 +2,9 @@
 **GUI/Commands versions**
 - [Election2020](#election2020)
   * [Installation](#installation)
+    + [Install Tkinter](#install-tkinter)
+      - [apt](#apt)
+    + [Install Requirements](#install-requirements)
   * [Execution](#execution)
     + [Commands](#commands)
     + [GUI](#gui)
@@ -14,7 +17,7 @@
 `$ sudo apt-get install python3-tk`
 
 or check [Tkinter Forum](https://tkdocs.com/tutorial/install.html) for other distribution or Windows or MAC
-
+### Install Requirements
 to run the program you have to install the required modules so open the terminal in the root folder of the program and run this command
 
 `$ pip install -r requirements.txt`
