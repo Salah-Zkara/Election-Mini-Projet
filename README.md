@@ -9,6 +9,8 @@
   * [Execution](#execution)
     + [Commands](#commands)
     + [GUI](#gui)
+      - [ Windows](#--windows)
+      - [ Linux](#--linux)
   * [Links](#links)
 ## Download
 To Download this software clone this repositorie or Download it as zip.
@@ -23,8 +25,6 @@ cd Election-Mini-Projet
 
 #### apt
 `$ sudo apt-get install python3-tk`
-
-`$ sudo apt-get install python3-pil.imagetk`
 
 or check [Tkinter Forum](https://tkdocs.com/tutorial/install.html) for other distribution or Windows or MAC
 ### Install other modules
@@ -44,11 +44,18 @@ you can modify the elected persons in the file "candidats.txt" in the root folde
 
 `$ python3 mini_projet.py`
 ### GUI
+#### - Windows
 `$ python Election2020_GUI.py`
 
 **or** 
 
 `$ python3 Election2020_GUI.py`
+#### - Linux
+`$ python Election2020_GUI_linux.py`
+
+**or** 
+
+`$ python3 Election2020_GUI_linux.py`
 ## Links
 [![](https://img.shields.io/badge/My-Portfolio-brightgreen)](https://salah-zkara.codes/)
 
